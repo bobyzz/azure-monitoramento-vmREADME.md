@@ -1,0 +1,1 @@
+# azure-monitoramento-vmREADME.md
